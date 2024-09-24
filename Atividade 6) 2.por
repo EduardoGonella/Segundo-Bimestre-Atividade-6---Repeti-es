@@ -5,7 +5,7 @@ programa
 	{
 		inteiro num = 0
 		inteiro soma = 0
-		inteiro media = 0
+		real media = 0
 		
 		para (inteiro i = 0; i < 5; i++) {
 		
