@@ -2,7 +2,8 @@ programa
 {
 	
 	funcao inicio()
-	{	
+	{
+	
 		
 		inteiro numero = 0
 		inteiro maior = numero
